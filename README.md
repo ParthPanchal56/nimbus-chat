@@ -1,2 +1,2 @@
-# nextjs-whatsapp-clone-starter
-# nimbus-chat
+NIMBUSCHAT
+STACK - (NEXT.JS,SOCKET.IO,TAILWIND CSS,NODE.JS,ZEGOCLOUD)
